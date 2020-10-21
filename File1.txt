@@ -6,3 +6,4 @@ Changes from master
 
 Idea branch created
 
+Master after Stashing
