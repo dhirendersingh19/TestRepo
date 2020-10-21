@@ -7,3 +7,5 @@ Changes from master
 Idea branch created
 
 Master after Stashing
+
+Change 3 of Stashing "Change 3 in File1"
