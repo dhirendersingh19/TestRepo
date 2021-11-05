@@ -13,4 +13,6 @@ some usefull git command
 11) git reset
 12) git remote add origin (url)
 13) git merge <branch name>
- 
+14) git fetch upstream
+15) git merge upstream/master
+16) git push origin master
