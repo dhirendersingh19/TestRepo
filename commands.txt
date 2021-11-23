@@ -16,3 +16,4 @@ some usefull git command
 14) git fetch upstream
 15) git merge upstream/master
 16) git push origin master
+17) git rebase <master> <dev>
